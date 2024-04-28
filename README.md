@@ -25,7 +25,7 @@ You can contact me at [MAIL ID](sriharid001@gmail.com).
 
 Check out my GitHub repositories for some of my recent work:
 
-- 💻 **[Grocery Task Management]([https://github.com/yourusername/project-a](https://github.com/Sri1529/Grocery_Task_Management.git))**: A MERN stack application for managing Grocery tasks.
+- 💻 **[Grocery Task Management](https://github.com/Sri1529/Grocery_Task_Management.git)**: A MERN stack application for managing Grocery tasks.
 - 🔗 **[URL Shortener](https://github.com/Sri1529/URL_Project.git)**: A service that provides URL shortening functionality, allowing users to create shorter links from long URLs.
 - 📚 **[Bookmark Saver](https://github.com/Sri1529/Bookmark_Project.git)**: A Java-based backend service for saving and organizing bookmarks for easy retrieval.
 
