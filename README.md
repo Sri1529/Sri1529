@@ -74,9 +74,9 @@ I build scalable, production-ready web applications with a strong focus on backe
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💼 LinkedIn: https://www.linkedin.com/in/sri-hari-duraisamy-17b755204/
 - 📧 Email: sriharid001@gmail.com
-- 🌍 Portfolio: (Add your portfolio link)
+- 🌍 Portfolio: https://portfolio-srihari.netlify.app/
 
 ---
 
